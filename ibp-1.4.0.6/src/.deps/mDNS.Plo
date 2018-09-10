@@ -1,0 +1,13 @@
+mDNS.lo: mDNS.c /usr/include/stdc-predef.h ../include/mDNSClientAPI.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/mDNSDebug.h \
+ ../include/mDNSPlatformFunctions.h
+
+/usr/include/stdc-predef.h:
+
+../include/mDNSClientAPI.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+
+../include/mDNSDebug.h:
+
+../include/mDNSPlatformFunctions.h:
