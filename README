@@ -1,0 +1,11 @@
+Welcome to LLDD (Logistical-Like Data Deployment). 
+The main idea is to further develop the IBP code, which I did some tiem ago at UT. Further info at 
+loci.cs.utk.edu
+I still like the concepts and I saw no mode advancement, so as "friday project" I thought to pick 
+the original code up and "celan it", rewrite it, make it workable for modern architectures, ASO. 
+
+As well, it would be nice to include some of the most recent ideas form Information-Centric Networking 
+and use the LLDD as a technology platform for it. 
+Anyway ... we'll see! 
+cheers, 
+--alex (aka lekdaf) 
